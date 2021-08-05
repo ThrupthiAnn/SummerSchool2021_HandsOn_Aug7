@@ -1,0 +1,1 @@
+CNN basics, training, meaning of convolution
